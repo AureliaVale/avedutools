@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>AV Edu Resources — Aurelia Vale</title>
+  <link>https://aureliavale.github.io/avedutools/</link>
+  <atom:link href="https://aureliavale.github.io/avedutools/feed.xml" rel="self" type="application/rss+xml" />
+  <description>Practical AI prompt packs and writing tools for bloggers, writers, and content creators — by Aurelia Vale.</description>
+  <language>en</language>
+  <managingEditor>aureliavale.collections@gmail.com (Aurelia Vale)</managingEditor>
+  <lastBuildDate>Mon, 18 May 2026 00:00:00 GMT</lastBuildDate>
+
+  <item>
+    <title>50 AI Prompts for Homemakers</title>
+    <link>https://aureliavale.github.io/avedutools/</link>
+    <guid isPermaLink="false">av-edu-homemakers-2026</guid>
+    <pubDate>Mon, 18 May 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[
+      <p>51 copy-paste prompts for meal planning, home organization, parenting, budgeting & self-care. Save 10+ hours every week.</p>
+      <p>Available now — €14.99.</p>
+    ]]></description>
+  </item>
+
+  <item>
+    <title>SEO Content Workflow Bundle — Pack 1 + Pack 2</title>
+    <link>https://aureliavale.github.io/content-brief/</link>
+    <guid isPermaLink="false">av-edu-bundle-2026</guid>
+    <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[
+      <p>Get the SEO Keyword Finder and AI Content Brief Generator together — find your keywords and turn them into ready-to-write content briefs in one workflow.</p>
+      <p>Available now — €29.99 (save €4.99).</p>
+    ]]></description>
+  </item>
+
+  <item>
+    <title>AI Content Brief Generator — Long-Tail Keyword Edition (Pack 2)</title>
+    <link>https://aureliavale.github.io/content-brief/</link>
+    <guid isPermaLink="true">https://aureliavale.github.io/content-brief/</guid>
+    <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[
+      <p>8 prompts to turn any keyword into a complete content brief — the natural next step after finding your keywords.</p>
+      <p>Available now — €14.99.</p>
+    ]]></description>
+  </item>
+
+  <item>
+    <title>SEO Keyword Finder AI Prompts — Complete 2026 Pack (Pack 1)</title>
+    <link>https://aureliavale.github.io/keyword-guide/</link>
+    <guid isPermaLink="true">https://aureliavale.github.io/keyword-guide/</guid>
+    <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+    <description><![CDATA[
+      <p>15 proven AI prompts to find long-tail keywords, low competition keywords, and competitor gaps. Perfect for SEO marketers, bloggers, and content creators.</p>
+      <p>Available now — €19.99.</p>
+    ]]></description>
+  </item>
+
+</channel>
+</rss>
