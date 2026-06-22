@@ -8,7 +8,6 @@
   <language>en</language>
   <managingEditor>aureliavale.collections@gmail.com (Aurelia Vale)</managingEditor>
   <lastBuildDate>Mon, 18 May 2026 00:00:00 GMT</lastBuildDate>
-
   <item>
     <title>50 AI Prompts for Homemakers</title>
     <link>https://aureliavale.github.io/avedutools/</link>
@@ -19,7 +18,6 @@
       <p>Available now — €14.99.</p>
     ]]></description>
   </item>
-
   <item>
     <title>SEO Content Workflow Bundle — Pack 1 + Pack 2</title>
     <link>https://aureliavale.github.io/content-brief/</link>
@@ -30,7 +28,6 @@
       <p>Available now — €29.99 (save €4.99).</p>
     ]]></description>
   </item>
-
   <item>
     <title>AI Content Brief Generator — Long-Tail Keyword Edition (Pack 2)</title>
     <link>https://aureliavale.github.io/content-brief/</link>
@@ -40,8 +37,8 @@
       <p>8 prompts to turn any keyword into a complete content brief — the natural next step after finding your keywords.</p>
       <p>Available now — €14.99.</p>
     ]]></description>
+    <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-ai-content-brief-generator-cover.png" length="0" type="image/png" />
   </item>
-
   <item>
     <title>SEO Keyword Finder AI Prompts — Complete 2026 Pack (Pack 1)</title>
     <link>https://aureliavale.github.io/keyword-guide/</link>
@@ -51,7 +48,7 @@
       <p>15 proven AI prompts to find long-tail keywords, low competition keywords, and competitor gaps. Perfect for SEO marketers, bloggers, and content creators.</p>
       <p>Available now — €19.99.</p>
     ]]></description>
+    <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-seo-keyword-finder-cover.png" length="0" type="image/png" />
   </item>
-
 </channel>
 </rss>
