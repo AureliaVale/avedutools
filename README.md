@@ -47,6 +47,9 @@ Pack 1 + Pack 2 together — find your keywords and turn them into content brief
 ### 50 AI Prompts for Special Education & Inclusive Teaching (€19.99)
 50 copy-paste prompts for IEP support, differentiated instruction, behavior and support planning, autism and ADHD classroom strategies, and family communication. Written by a retired English teacher with 30 years of classroom experience.  
 🔗 [Get the Special Education Pack](https://av-edu-lab.lemonsqueezy.com/checkout/buy/b0db959e-c5ef-47ec-9313-339bfdebf930)
+### 80 AI Prompts for Roadschool Parents (€24.99)
+80 copy-paste prompts for location-based learning, core subjects on the go, weekly scheduling, documentation and records, hands-on activities, and social connection & sibling dynamics. Includes a bonus Travel Learning Log template and a full appendix on the emotional side of life on the road. Written by a retired English teacher with 30 years of classroom experience.  
+🔗 [Get the Roadschool Pack](https://av-edu-lab.lemonsqueezy.com/checkout/buy/d4c5d2b6-fd91-42bd-bee6-0fcf300bed6c)
 
 ---
 
