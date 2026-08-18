@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
   <title>AV Edu Resources — Aurelia Vale</title>
   <link>https://aureliavale.github.io/avedutools/</link>
@@ -17,7 +17,8 @@
       <p>80 copy-paste AI prompts for location-based learning, core subjects on the go, weekly scheduling, documentation, hands-on activities & sibling dynamics. Includes a bonus guide on the emotional side of full-time travel. Written by a retired English teacher with 30 years of experience.</p>
       <p>Available now — €24.99.</p>
     ]]></description>
-    <enclosure url="https://aureliavale.github.io/avedutools/80-ai-prompts-roadschool-parents.cover.png" length="0" type="image/png" />
+    <media:content url="https://aureliavale.github.io/avedutools/80-ai-prompts-roadschool-parents.cover.png" medium="image" type="image/png" />
+    <enclosure url="https://aureliavale.github.io/avedutools/80-ai-prompts-roadschool-parents.cover.png" type="image/png" />
   </item>
   <item>
     <title>5 Free AI Prompts for Roadschool Parents</title>
@@ -27,7 +28,8 @@
     <description><![CDATA[
       <p>Try 5 free AI prompts for roadschool parents — no sign-up needed.</p>
     ]]></description>
-    <enclosure url="https://aureliavale.github.io/avedutools/80-ai-prompts-roadschool-parents.cover.png" length="0" type="image/png" />
+    <media:content url="https://aureliavale.github.io/avedutools/80-ai-prompts-roadschool-parents.cover.png" medium="image" type="image/png" />
+    <enclosure url="https://aureliavale.github.io/avedutools/80-ai-prompts-roadschool-parents.cover.png" type="image/png" />
   </item>
   <item>
     <title>What Nobody Tells You About the Emotional Side of Roadschooling</title>
@@ -37,7 +39,8 @@
     <description><![CDATA[
       <p>Roadschooling isn't just logistics. Real roadschooling parents on burnout, comparison, grief, and knowing when to pause.</p>
     ]]></description>
-    <enclosure url="https://aureliavale.github.io/avedutools/80-ai-prompts-roadschool-parents.cover.png" length="0" type="image/png" />
+    <media:content url="https://aureliavale.github.io/avedutools/80-ai-prompts-roadschool-parents.cover.png" medium="image" type="image/png" />
+    <enclosure url="https://aureliavale.github.io/avedutools/80-ai-prompts-roadschool-parents.cover.png" type="image/png" />
   </item>
   <item>
     <title>50 AI Prompts for Special Education &amp; Inclusive Teaching</title>
@@ -48,7 +51,8 @@
       <p>50 copy-paste AI prompts for IEP support, differentiation, autism & ADHD strategies, behavior planning & family communication. Written by a retired English teacher with 30 years of experience.</p>
       <p>Available now — €19.99.</p>
     ]]></description>
-    <enclosure url="https://aureliavale.github.io/avedutools/50-ai-prompts-special-education-inclusive-teaching.cover.png" length="0" type="image/png" />
+    <media:content url="https://aureliavale.github.io/avedutools/50-ai-prompts-special-education-inclusive-teaching.cover.png" medium="image" type="image/png" />
+    <enclosure url="https://aureliavale.github.io/avedutools/50-ai-prompts-special-education-inclusive-teaching.cover.png" type="image/png" />
   </item>
   <item>
     <title>5 Free AI Prompts for Special Education Teachers</title>
@@ -58,7 +62,8 @@
     <description><![CDATA[
       <p>Try 5 free AI prompts for special education & inclusive teaching — no sign-up needed.</p>
     ]]></description>
-    <enclosure url="https://aureliavale.github.io/avedutools/50-ai-prompts-special-education-inclusive-teaching.cover.png" length="0" type="image/png" />
+    <media:content url="https://aureliavale.github.io/avedutools/50-ai-prompts-special-education-inclusive-teaching.cover.png" medium="image" type="image/png" />
+    <enclosure url="https://aureliavale.github.io/avedutools/50-ai-prompts-special-education-inclusive-teaching.cover.png" type="image/png" />
   </item>
   <item>
     <title>How to Write an IEP Faster With AI — Without Losing Your Judgment</title>
@@ -68,7 +73,8 @@
     <description><![CDATA[
       <p>50 AI prompts for special education teachers — IEP prep, behavior planning, differentiation & family communication.</p>
     ]]></description>
-    <enclosure url="https://aureliavale.github.io/avedutools/50-ai-prompts-special-education-inclusive-teaching.cover.png" length="0" type="image/png" />
+    <media:content url="https://aureliavale.github.io/avedutools/50-ai-prompts-special-education-inclusive-teaching.cover.png" medium="image" type="image/png" />
+    <enclosure url="https://aureliavale.github.io/avedutools/50-ai-prompts-special-education-inclusive-teaching.cover.png" type="image/png" />
   </item>
   <item>
     <title>50 AI Prompts for K-12 English Teachers</title>
@@ -79,7 +85,8 @@
       <p>50 copy-paste AI prompts for lesson planning, worksheets, grading & admin. Done in 60 seconds. Written by a retired English teacher with 30 years of experience.</p>
       <p>Available now — €12.99.</p>
     ]]></description>
-    <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-50-prompts-teachers.cover.png" length="0" type="image/png" />
+    <media:content url="https://aureliavale.github.io/avedutools/aureliavale-50-prompts-teachers.cover.png" medium="image" type="image/png" />
+    <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-50-prompts-teachers.cover.png" type="image/png" />
   </item>
   <item>
     <title>50 AI Prompts for Homemakers</title>
@@ -90,7 +97,8 @@
       <p>51 copy-paste prompts for meal planning, home organization, parenting, budgeting & self-care. Save 10+ hours every week.</p>
       <p>Available now — €14.99.</p>
     ]]></description>
-    <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-50-prompts-homemakers.cover.png" length="0" type="image/png" />
+    <media:content url="https://aureliavale.github.io/avedutools/aureliavale-50-prompts-homemakers.cover.png" medium="image" type="image/png" />
+    <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-50-prompts-homemakers.cover.png" type="image/png" />
   </item>
   <item>
     <title>SEO Content Workflow Bundle — Pack 1 + Pack 2</title>
@@ -101,7 +109,8 @@
       <p>Get the SEO Keyword Finder and AI Content Brief Generator together — find your keywords and turn them into ready-to-write content briefs in one workflow.</p>
       <p>Available now — €29.99 (save €4.99).</p>
     ]]></description>
-    <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-seo-bundle.cover.png" length="0" type="image/png" />
+    <media:content url="https://aureliavale.github.io/avedutools/aureliavale-seo-bundle.cover.png" medium="image" type="image/png" />
+    <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-seo-bundle.cover.png" type="image/png" />
   </item>
   <item>
     <title>AI Content Brief Generator — Long-Tail Keyword Edition (Pack 2)</title>
@@ -112,7 +121,8 @@
       <p>8 prompts to turn any keyword into a complete content brief — the natural next step after finding your keywords.</p>
       <p>Available now — €14.99.</p>
     ]]></description>
-    <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-ai-content-brief-generator.cover.png" length="0" type="image/png" />
+    <media:content url="https://aureliavale.github.io/avedutools/aureliavale-ai-content-brief-generator.cover.png" medium="image" type="image/png" />
+    <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-ai-content-brief-generator.cover.png" type="image/png" />
   </item>
   <item>
     <title>SEO Keyword Finder AI Prompts — Complete 2026 Pack (Pack 1)</title>
@@ -123,7 +133,8 @@
       <p>15 proven AI prompts to find long-tail keywords, low competition keywords, and competitor gaps. Perfect for SEO marketers, bloggers, and content creators.</p>
       <p>Available now — €19.99.</p>
     ]]></description>
-    <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-seo-keyword-finder.cover.png" length="0" type="image/png" />
+    <media:content url="https://aureliavale.github.io/avedutools/aureliavale-seo-keyword-finder.cover.png" medium="image" type="image/png" />
+    <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-seo-keyword-finder.cover.png" type="image/png" />
   </item>
 </channel>
 </rss>
