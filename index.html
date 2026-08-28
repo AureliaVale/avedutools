@@ -54,6 +54,43 @@
       text-transform: uppercase;
     }
     nav a:hover { text-decoration: underline; }
+    
+    /* Affiliate Banner Styling */
+    .affiliate-banner {
+      background: #fdfbf7;
+      border: 2px dashed #c9a84c;
+      border-radius: 8px;
+      padding: 24px;
+      margin-bottom: 40px;
+      text-align: center;
+    }
+    .affiliate-banner h3 {
+      color: #0d1b2a;
+      font-size: 1.2rem;
+      margin-bottom: 8px;
+    }
+    .affiliate-banner p {
+      color: #555;
+      font-size: 0.95rem;
+      max-width: 600px;
+      margin: 0 auto 16px;
+      line-height: 1.5;
+    }
+    .btn-gold {
+      display: inline-block;
+      background: #c9a84c;
+      color: #0d1b2a;
+      font-weight: bold;
+      padding: 12px 24px;
+      border-radius: 4px;
+      text-decoration: none;
+      font-size: 0.9rem;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      transition: background 0.2s;
+    }
+    .btn-gold:hover { background: #b8973b; }
+
     .section { padding: 50px 20px; max-width: 860px; margin: 0 auto; }
     .section h2 {
       font-size: 1.4rem;
@@ -163,11 +200,20 @@
 
 <nav>
   <a href="#products">Products</a>
+  <a href="#affiliates">Partner Program</a>
   <a href="#blog">Blog</a>
   <a href="#about">About</a>
 </nav>
 
 <div class="section" id="products">
+
+  <!-- Affiliate Partner Callout Banner -->
+  <div class="affiliate-banner" id="affiliates">
+    <h3>🤝 Partner & Earn: Join the AV Edu Affiliate Program</h3>
+    <p>Earn <strong>40% commission per sale</strong> by sharing our AI Prompt Packs with your audience of educators, creators, bloggers, and parents.</p>
+    <a class="btn-gold" href="https://av-edu-lab.lemonsqueezy.com/affiliates" target="_blank">Apply Now via LemonSqueezy</a>
+  </div>
+
   <h2>SEO Content Workflow — The Complete Series</h2>
   <div class="products">
 
