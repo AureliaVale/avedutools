@@ -76,7 +76,7 @@
     <media:content url="https://aureliavale.github.io/avedutools/50-ai-prompts-special-education-inclusive-teaching.cover.png" medium="image" type="image/png" length="500000" />
     <enclosure url="https://aureliavale.github.io/avedutools/50-ai-prompts-special-education-inclusive-teaching.cover.png" type="image/png" length="500000" />
   </item>
-  <item>
+    <item>
     <title>50 AI Prompts for K-12 English Teachers</title>
     <link>https://aureliavale.github.io/avedutools/</link>
     <guid isPermaLink="false">av-edu-teachers-2026</guid>
@@ -85,7 +85,10 @@
       <p>50 copy-paste AI prompts for lesson planning, worksheets, grading & admin. Done in 60 seconds. Written by a retired English teacher with 30 years of experience.</p>
       <p>Available now — €12.99.</p>
     ]]></description>
-    <media:content url="https://aureliavale.github.io/avedutools/aureliavale-50-prompts-teachers.cover.png" medium="image" type="image/png" length="500000" />
+    <media:content url="https://aureliavale.github.io/avedutools/aureliavale-50-prompts-teachers-pin.png" medium="image" type="image/png" length="312639">
+      <media:title>Plan a Week of Lessons in 20 Minutes</media:title>
+      <media:description>Tired of spending your weekend planning? This pack gives you 50 copy-paste AI prompts to build a week of lessons in 20 minutes. Tap to see the full list.</media:description>
+    </media:content>
     <enclosure url="https://aureliavale.github.io/avedutools/aureliavale-50-prompts-teachers.cover.png" type="image/png" length="500000" />
   </item>
   <item>
